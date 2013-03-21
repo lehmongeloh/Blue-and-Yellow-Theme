@@ -3,8 +3,7 @@
 /* General markup */
 
 body {
-    background-color: #3ABBC9;
-    color: #000000 !important;
+  background: #f4f4f4 url(%%vintage-writing-inscription-olden%%) fixed;
 }
 
 input {
